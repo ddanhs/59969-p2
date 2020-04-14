@@ -1,92 +1,92 @@
-date,start,end,category,details,amount,work,anxiety,attempts,times
-3/2,5:00 PM,6:00 PM,Chores,Cooking,4,school,2,1,12:00 AM
-3/2,7:00 PM,8:00 PM,ETC,Skincare,4,school,3,1,1:00 AM
-3/3,5:00 PM,6:00 PM,Media Consumption,Youtube,2,school,5,2,2:00 AM
-3/3,11:00 PM,12:00 AM,Socializing,Movies with Friends,1,school,1,0,3:00 AM
-3/4,12:00 PM,1:00 PM,Social Media,Twitter,1,school,3,0,4:00 AM
-3/4,5:00 PM,6:00 PM,Chores,Cooking,2,school,4,2,5:00 AM
-3/4,7:00 PM,8:00 PM,Media Consumption,Youtube,2,school,5,1,6:00 AM
-3/5,5:00 PM,6:00 PM,Social Media,Online Shopping,2,school,1,1,7:00 AM
-3/5,9:00 PM,10:00 PM,Media Consumption,Netflix: Love is Blind,2,school,1,0,8:00 AM
-3/6,5:00 PM,6:00 PM,Social Media,Twitter,2,school,3,0,9:00 AM
-3/6,8:00 PM,9:00 PM,Social Media,Online Shopping,2,work,3,0,10:00 AM
-3/7,10:00 AM,11:00 AM,Socializing,Hang Out,1,school,1,0,11:00 AM
-3/7,11:00 AM,12:00 PM,Socializing,Hang Out,1,school,1,0,12:00 PM
-3/7,12:00 PM,1:00 PM,ETC,Shopping,1,school,1,0,1:00 PM
-3/8,1:00 PM,2:00 PM,Social Media,Tumblr,1,school,2,2,2:00 PM
-3/8,3:00 PM,4:00 PM,Social Media,Twitter,1,school,2,1,3:00 PM
-3/8,4:00 PM,5:00 PM,Socializing,Hang Out,1,school,2,3,4:00 PM
-3/8,12:00 AM,1:00 AM,Media Consumption,Netflix: Love is Blind,1,school,2,2,5:00 PM
-3/8,2:00 AM,3:00 AM,Socializing,Movies with Friends,1,school,2,2,6:00 PM
-3/9,4:00 PM,5:00 PM,Chores,Customer Service Problems,1,school,1,2,7:00 PM
-3/9,7:00 PM,8:00 PM,Media Consumption,Netflix: Love is Blind,3,school,5,5,8:00 PM
-3/9,10:00 PM,11:00 PM,Socializing,Movies with Friends,3,school,5,5,9:00 PM
-3/10,5:00 PM,6:00 PM,ETC,Arts and Crafts,2,school,4,4,10:00 PM
-3/10,8:00 PM,9:00 PM,Social Media,Twitter,2,school,3,5,11:00 PM
-3/11,6:00 PM,7:00 PM,Social Media,Twitter,3,school,2,1,
-3/11,7:00 PM,8:00 PM,Media Consumption,Netflix: Crash Landing,3,school,2,3,
-3/12,10:00 AM,11:00 AM,Socializing,Hang Out,3,school,2,1,
-3/12,11:00 AM,12:00 PM,Socializing,Hang Out,3,school,2,1,
-3/12,7:00 PM,8:00 PM,Chores,Customer Service Problems,3,school,2,2,
-3/13,10:00 AM,11:00 AM,ETC,Event / Concert,3,school,1,2,
-3/13,11:00 AM,12:00 PM,ETC,Event / Concert,3,school,1,1,
-3/13,12:00 PM,1:00 PM,Socializing,Hang Out,3,school,1,0,
-3/13,1:00 PM,2:00 PM,Socializing,Hang Out,3,school,1,0,
-3/13,2:00 PM,3:00 PM,Socializing,Hang Out,3,school,1,0,
-3/14,11:00 AM,12:00 PM,Social Media,iMessage,3,work,3,2,
-3/14,12:00 PM,1:00 PM,Social Media,iMessage,3,work,3,3,
-3/14,2:00 PM,3:00 PM,Social Media,iMessage,3,work,3,4,
-3/14,3:00 PM,4:00 PM,Socializing,Hang Out,3,work,3,1,
-3/14,5:00 PM,6:00 PM,Social Media,Reading News,3,work,3,2,
-3/15,2:00 PM,3:00 PM,Social Media,Online Shopping,3,work,3,3,
-3/16,12:00 PM,1:00 PM,Social Media,Twitter,3,work,5,3,
-3/16,1:00 PM,2:00 PM,ETC,Arts and Crafts,3,school,5,1,
-3/16,2:00 PM,3:00 PM,ETC,Arts and Crafts,3,school,5,0,
-3/16,3:00 PM,4:00 PM,ETC,Arts and Crafts,3,school,5,1,
-3/16,5:00 PM,6:00 PM,ETC,Arts and Crafts,3,school,5,0,
-3/16,11:00 PM,12:00 AM,Socializing,Movies with Friends,2,school,6,0,
-3/17,11:00 AM,12:00 PM,Social Media,iMessage,2,school,6,1,
-3/17,1:00 PM,2:00 PM,Chores,Grocery Shopping,2,school,3,0,
-3/17,4:00 PM,5:00 PM,ETC,Arts and Crafts,2,school,4,2,
-3/17,5:00 PM,6:00 PM,Chores,Cooking,2,school,5,3,
-3/18,3:00 PM,4:00 PM,Socializing,Movies with Friends,1,school,3,2,
-3/18,4:00 PM,5:00 PM,Socializing,Movies with Friends,1,school,3,2,
-3/18,5:00 PM,6:00 PM,ETC,Arts and Crafts,1,school,3,1,
-3/18,6:00 PM,7:00 PM,ETC,Arts and Crafts,1,school,3,0,
-3/18,7:00 PM,8:00 PM,ETC,Arts and Crafts,1,school,3,0,
-3/18,8:00 PM,9:00 PM,ETC,Arts and Crafts,1,school,3,0,
-3/18,8:00 PM,9:00 PM,Socializing,Facetime,1,school,3,0,
-3/18,9:00 PM,10:00 PM,Socializing,Facetime,1,school,5,0,
-3/18,10:00 PM,11:00 PM,Socializing,Facetime,1,school,5,0,
-3/19,4:00 PM,5:00 PM,ETC,Nap,2,school,5,0,
-3/19,8:00 PM,9:00 PM,Social Media,Twitter,2,school,5,5,
-3/20,2:00 AM,3:00 AM,Social Media,Twitter,1,school,4,1,
-3/20,3:00 PM,4:00 PM,Social Media,Online Shopping,1,school,4,4,
-3/20,6:00 PM,7:00 PM,ETC,Photoshop,1,school,4,2,
-3/20,7:00 PM,8:00 PM,ETC,Photoshop,1,school,4,2,
-3/20,9:00 PM,10:00 PM,Media Consumption,Vlive,1,school,4,6,
-3/21,10:00 AM,11:00 AM,Social Media,Twitter,1,school,3,2,
-3/21,3:00 PM,4:00 PM,Socializing,Movies with Friends,1,school,3,1,
-3/21,4:00 PM,5:00 PM,Socializing,Movies with Friends,1,school,3,1,
-3/21,5:00 PM,6:00 PM,Socializing,Movies with Friends,1,school,3,2,
-3/21,6:00 PM,7:00 PM,Socializing,Movies with Friends,1,school,3,1,
-3/21,11:00 PM,12:00 AM,ETC,Photoshop,1,school,3,3,
-3/22,12:00 AM,1:00 AM,ETC,Photoshop,1,school,5,1,
-3/22,2:00 AM,3:00 AM,ETC,Photoshop,1,school,5,2,
-3/22,3:00 PM,4:00 PM,ETC,Photoshop,1,school,5,1,
-3/22,8:00 PM,9:00 PM,Social Media,Twitter,1,school,5,7,
-3/23,1:00 PM,2:00 PM,Social Media,Twitter,1,school,5,4,
-3/23,4:00 PM,5:00 PM,Socializing,Facetime,2,school,5,2,
-3/23,6:00 PM,7:00 PM,Socializing,Facetime,2,school,5,5,
-3/23,9:00 PM,10:00 PM,Socializing,Facetime,2,school,5,4,
-3/23,10:00 PM,11:00 PM,Socializing,Facetime,2,school,5,5,
-3/23,11:00 PM,12:00 AM,Socializing,Facetime,2,school,5,2,
-3/24,8:00 AM,9:00 AM,Social Media,Twitter,2,school,5,2,
-3/24,9:00 AM,10:00 AM,Social Media,iMessage,2,school,5,3,
-3/24,4:00 PM,5:00 PM,Social Media,Twitter,2,school,5,5,
-3/25,4:00 PM,5:00 PM,Social Media,Twitter,2,school,5,5,
-3/25,7:00 PM,8:00 PM,Socializing,Facetime,2,school,5,2,
-3/25,8:00 PM,9:00 PM,Socializing,Facetime,2,school,5,2,
-3/25,9:00 PM,10:00 PM,Socializing,Facetime,2,school,6,3,
-3/25,10:00 PM,11:00 PM,Socializing,Facetime,2,school,6,4,
-3/25,11:00 PM,12:00 AM,Socializing,Facetime,2,school,6,5,
+date,start,end,categorynum,category,details,amount,work,anxiety,attempts,day,times
+3/2,5:00 PM,6:00 PM,1,Chores,Cooking,4,school,2,1,Monday,12:00 AM
+3/2,7:00 PM,8:00 PM,5,ETC,Skincare,4,school,3,1,Monday,1:00 AM
+3/3,5:00 PM,6:00 PM,2,Media Consumption,Youtube,2,school,5,2,Tuesday,2:00 AM
+3/3,11:00 PM,12:00 AM,4,Socializing,Movies with Friends,1,school,1,0,Tuesday,3:00 AM
+3/4,12:00 PM,1:00 PM,3,Social Media,Twitter,1,school,3,0,Wednesday,4:00 AM
+3/4,5:00 PM,6:00 PM,1,Chores,Cooking,2,school,4,2,Wednesday,5:00 AM
+3/4,7:00 PM,8:00 PM,2,Media Consumption,Youtube,2,school,5,1,Wednesday,6:00 AM
+3/5,5:00 PM,6:00 PM,3,Social Media,Online Shopping,2,school,1,1,Thursday,7:00 AM
+3/5,9:00 PM,10:00 PM,2,Media Consumption,Netflix: Love is Blind,2,school,1,0,Thursday,8:00 AM
+3/6,5:00 PM,6:00 PM,3,Social Media,Twitter,2,school,3,0,Friday,9:00 AM
+3/6,8:00 PM,9:00 PM,3,Social Media,Online Shopping,2,work,3,0,Friday,10:00 AM
+3/7,10:00 AM,11:00 AM,4,Socializing,Hang Out,1,school,1,0,Saturday,11:00 AM
+3/7,11:00 AM,12:00 PM,4,Socializing,Hang Out,1,school,1,0,Saturday,12:00 PM
+3/7,12:00 PM,1:00 PM,5,ETC,Shopping,1,school,1,0,Saturday,1:00 PM
+3/8,1:00 PM,2:00 PM,3,Social Media,Tumblr,1,school,2,2,Sunday,2:00 PM
+3/8,3:00 PM,4:00 PM,3,Social Media,Twitter,1,school,2,1,Sunday,3:00 PM
+3/8,4:00 PM,5:00 PM,4,Socializing,Hang Out,1,school,2,3,Sunday,4:00 PM
+3/8,12:00 AM,1:00 AM,2,Media Consumption,Netflix: Love is Blind,1,school,2,2,Sunday,5:00 PM
+3/8,2:00 AM,3:00 AM,4,Socializing,Movies with Friends,1,school,2,2,Sunday,6:00 PM
+3/9,4:00 PM,5:00 PM,1,Chores,Customer Service Problems,1,school,1,2,Monday,7:00 PM
+3/9,7:00 PM,8:00 PM,2,Media Consumption,Netflix: Love is Blind,3,school,5,5,Monday,8:00 PM
+3/9,10:00 PM,11:00 PM,4,Socializing,Movies with Friends,3,school,5,5,Monday,9:00 PM
+3/10,5:00 PM,6:00 PM,5,ETC,Arts and Crafts,2,school,4,4,Tuesday,10:00 PM
+3/10,8:00 PM,9:00 PM,3,Social Media,Twitter,2,school,3,5,Tuesday,11:00 PM
+3/11,6:00 PM,7:00 PM,3,Social Media,Twitter,3,school,2,1,Wednesday,
+3/11,7:00 PM,8:00 PM,2,Media Consumption,Netflix: Crash Landing,3,school,2,3,Wednesday,
+3/12,10:00 AM,11:00 AM,4,Socializing,Hang Out,3,school,2,1,Thursday,
+3/12,11:00 AM,12:00 PM,4,Socializing,Hang Out,3,school,2,1,Thursday,
+3/12,7:00 PM,8:00 PM,1,Chores,Customer Service Problems,3,school,2,2,Thursday,
+3/13,10:00 AM,11:00 AM,5,ETC,Event / Concert,3,school,1,2,Friday,
+3/13,11:00 AM,12:00 PM,5,ETC,Event / Concert,3,school,1,1,Friday,
+3/13,12:00 PM,1:00 PM,4,Socializing,Hang Out,3,school,1,0,Friday,
+3/13,1:00 PM,2:00 PM,4,Socializing,Hang Out,3,school,1,0,Friday,
+3/13,2:00 PM,3:00 PM,4,Socializing,Hang Out,3,school,1,0,Friday,
+3/14,11:00 AM,12:00 PM,3,Social Media,iMessage,3,work,3,2,Saturday,
+3/14,12:00 PM,1:00 PM,3,Social Media,iMessage,3,work,3,3,Saturday,
+3/14,2:00 PM,3:00 PM,3,Social Media,iMessage,3,work,3,4,Saturday,
+3/14,3:00 PM,4:00 PM,4,Socializing,Hang Out,3,work,3,1,Saturday,
+3/14,5:00 PM,6:00 PM,3,Social Media,Reading News,3,work,3,2,Saturday,
+3/15,2:00 PM,3:00 PM,3,Social Media,Online Shopping,3,work,3,3,Sunday,
+3/16,12:00 PM,1:00 PM,3,Social Media,Twitter,3,work,5,3,Monday,
+3/16,1:00 PM,2:00 PM,5,ETC,Arts and Crafts,3,school,5,1,Monday,
+3/16,2:00 PM,3:00 PM,5,ETC,Arts and Crafts,3,school,5,0,Monday,
+3/16,3:00 PM,4:00 PM,5,ETC,Arts and Crafts,3,school,5,1,Monday,
+3/16,5:00 PM,6:00 PM,5,ETC,Arts and Crafts,3,school,5,0,Monday,
+3/16,11:00 PM,12:00 AM,4,Socializing,Movies with Friends,2,school,6,0,Monday,
+3/17,11:00 AM,12:00 PM,3,Social Media,iMessage,2,school,6,1,Tuesday,
+3/17,1:00 PM,2:00 PM,1,Chores,Grocery Shopping,2,school,3,0,Tuesday,
+3/17,4:00 PM,5:00 PM,5,ETC,Arts and Crafts,2,school,4,2,Tuesday,
+3/17,5:00 PM,6:00 PM,1,Chores,Cooking,2,school,5,3,Tuesday,
+3/18,3:00 PM,4:00 PM,4,Socializing,Movies with Friends,1,school,3,2,Wednesday,
+3/18,4:00 PM,5:00 PM,4,Socializing,Movies with Friends,1,school,3,2,Wednesday,
+3/18,5:00 PM,6:00 PM,5,ETC,Arts and Crafts,1,school,3,1,Wednesday,
+3/18,6:00 PM,7:00 PM,5,ETC,Arts and Crafts,1,school,3,0,Wednesday,
+3/18,7:00 PM,8:00 PM,5,ETC,Arts and Crafts,1,school,3,0,Wednesday,
+3/18,8:00 PM,9:00 PM,5,ETC,Arts and Crafts,1,school,3,0,Wednesday,
+3/18,8:00 PM,9:00 PM,4,Socializing,Facetime,1,school,3,0,Wednesday,
+3/18,9:00 PM,10:00 PM,4,Socializing,Facetime,1,school,5,0,Wednesday,
+3/18,10:00 PM,11:00 PM,4,Socializing,Facetime,1,school,5,0,Wednesday,
+3/19,4:00 PM,5:00 PM,5,ETC,Nap,2,school,5,0,Thursday,
+3/19,8:00 PM,9:00 PM,3,Social Media,Twitter,2,school,5,5,Thursday,
+3/20,2:00 AM,3:00 AM,3,Social Media,Twitter,1,school,4,1,Friday,
+3/20,3:00 PM,4:00 PM,3,Social Media,Online Shopping,1,school,4,4,Friday,
+3/20,6:00 PM,7:00 PM,5,ETC,Photoshop,1,school,4,2,Friday,
+3/20,7:00 PM,8:00 PM,5,ETC,Photoshop,1,school,4,2,Friday,
+3/20,9:00 PM,10:00 PM,2,Media Consumption,Vlive,1,school,4,6,Friday,
+3/21,10:00 AM,11:00 AM,3,Social Media,Twitter,1,school,3,2,Saturday,
+3/21,3:00 PM,4:00 PM,4,Socializing,Movies with Friends,1,school,3,1,Saturday,
+3/21,4:00 PM,5:00 PM,4,Socializing,Movies with Friends,1,school,3,1,Saturday,
+3/21,5:00 PM,6:00 PM,4,Socializing,Movies with Friends,1,school,3,2,Saturday,
+3/21,6:00 PM,7:00 PM,4,Socializing,Movies with Friends,1,school,3,1,Saturday,
+3/21,11:00 PM,12:00 AM,5,ETC,Photoshop,1,school,3,3,Saturday,
+3/22,12:00 AM,1:00 AM,5,ETC,Photoshop,1,school,5,1,Sunday,
+3/22,2:00 AM,3:00 AM,5,ETC,Photoshop,1,school,5,2,Sunday,
+3/22,3:00 PM,4:00 PM,5,ETC,Photoshop,1,school,5,1,Sunday,
+3/22,8:00 PM,9:00 PM,3,Social Media,Twitter,1,school,5,7,Sunday,
+3/23,1:00 PM,2:00 PM,3,Social Media,Twitter,1,school,5,4,Monday,
+3/23,4:00 PM,5:00 PM,4,Socializing,Facetime,2,school,5,2,Monday,
+3/23,6:00 PM,7:00 PM,4,Socializing,Facetime,2,school,5,5,Monday,
+3/23,9:00 PM,10:00 PM,4,Socializing,Facetime,2,school,5,4,Monday,
+3/23,10:00 PM,11:00 PM,4,Socializing,Facetime,2,school,5,5,Monday,
+3/23,11:00 PM,12:00 AM,4,Socializing,Facetime,2,school,5,2,Monday,
+3/24,8:00 AM,9:00 AM,3,Social Media,Twitter,2,school,5,2,Tuesday,
+3/24,9:00 AM,10:00 AM,3,Social Media,iMessage,2,school,5,3,Tuesday,
+3/24,4:00 PM,5:00 PM,3,Social Media,Twitter,2,school,5,5,Tuesday,
+3/25,4:00 PM,5:00 PM,3,Social Media,Twitter,2,school,5,5,Wednesday,
+3/25,7:00 PM,8:00 PM,4,Socializing,Facetime,2,school,5,2,Wednesday,
+3/25,8:00 PM,9:00 PM,4,Socializing,Facetime,2,school,5,2,Wednesday,
+3/25,9:00 PM,10:00 PM,4,Socializing,Facetime,2,school,6,3,Wednesday,
+3/25,10:00 PM,11:00 PM,4,Socializing,Facetime,2,school,6,4,Wednesday,
+3/25,11:00 PM,12:00 AM,4,Socializing,Facetime,2,school,6,5,Wednesday,
