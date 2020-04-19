@@ -1,23 +1,16 @@
 date,start,end,category,details,amount,work,anxiety,attempts,day
 03-02,17:00,18:00,Chores,Cooking,4,school,2,1,Monday
 03-02,19:00,20:00,ETC,Skincare,4,school,3,1,Monday
-03-03,17:00,18:00,Media Consumption,Youtube,2,school,5,2,Tuesday
+03-03,17:00,20:00,Media Consumption,Youtube,2,school,5,2,Tuesday
 03-03,23:00,0:00,Socializing,Movies with Friends,1,school,1,0,Tuesday
 03-04,12:00,13:00,Social Media,Twitter,1,school,3,0,Wednesday
 03-04,17:00,18:00,Chores,Cooking,2,school,4,2,Wednesday
 03-04,19:00,20:00,Media Consumption,Youtube,2,school,5,1,Wednesday
 03-05,17:00,18:00,Social Media,Online Shopping,2,school,1,1,Thursday
-03-05,21:00,22:00,Media Consumption,Netflix: Love is Blind,2,school,1,0,Thursday
+03-05,21:00,23:00,Media Consumption,Netflix: Love is Blind,2,school,1,0,Thursday
 03-06,19:00,20:00,Socializing,Facetime,2,school,3,0,Friday
-03-06,20:00,21:00,Socializing,Facetime,2,work,3,0,Friday
-03-07,21:00,22:00,Socializing,Facetime,1,school,1,0,Saturday
-03-07,22:00,23:00,Socializing,Facetime,1,school,1,0,Saturday
-03-07,23:00,0:00,Socializing,Facetime,1,school,1,0,Saturday
+03-06,20:00,0:00,Socializing,Facetime,2,work,3,0,Friday
 03-08,13:00,14:00,Media Consumption,Youtube,1,school,2,2,Sunday
 03-08,17:00,18:00,Social Media,Twitter,1,school,2,1,Sunday
-03-08,18:00,19:00,Hobby,Photoshop,1,school,2,3,Sunday
-03-08,19:00,20:00,Hobby,Photoshop,1,school,2,2,Sunday
-03-08,23:00,0:00,Hobby,Photoshop,1,school,2,2,Sunday
-03-09,0:00,1:00,Hobby,Photoshop,1,school,1,2,Monday
-03-09,1:00,2:00,Hobby,Photoshop,3,school,5,5,Monday
-03-09,2:00,3:00,Hobby,Photoshop,3,school,5,5,Monday
+03-08,18:00,23:00,Hobby,Photoshop,1,school,2,3,Sunday
+03-09,0:00,3:00,Hobby,Photoshop,1,school,1,2,Monday
